@@ -2,9 +2,12 @@
 
 this is a descriptive readme markdown file
 
-##subheading
+## subheading
 
 this is going to be my first commit on git
+
+statement added in merge 
+
 
 
 
